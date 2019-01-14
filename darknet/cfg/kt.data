@@ -1,0 +1,6 @@
+classes= 8
+train = /Users/Kevin/Downloads/YOLO/data/train_list.txt
+valid = /Users/Kevin/Downloads/YOLO/data/test_list.txt
+names = /Users/Kevin/Downloads/YOLO/data/kt.names
+backup= /Users/Kevin/Downloads/YOLO/backup
+
